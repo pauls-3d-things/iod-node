@@ -1,0 +1,12 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define WIFI_SSID "MyWifi"
+#define WIFI_PASS "N0t_so_S3cr3t"
+#define IOD_CORE_HOST "mrbook"
+#define IOD_CORE_PORT 8080
+#define IOD_USER "iod"
+#define IOD_PASS "iod"
+
+#define DEEP_SLEEP_MINUTES 3
+#endif
